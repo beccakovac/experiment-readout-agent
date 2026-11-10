@@ -2,6 +2,8 @@
 
 **Turn raw A/B test results into a decision-ready readout and a prioritized next-test backlog.**
 
+**[▶ Try the live app](https://experiment-readout-becca.streamlit.app/)**
+
 Built by [Rebecca Kovacevich](https://www.beccakovac.com), Growth & Integrated Marketing Leader.
 
 Most teams lose money on experimentation in three ways: they call winners too early, they trust tests with broken traffic splits, and they never turn results into the next round of tests. This agent handles all three.
@@ -80,7 +82,7 @@ Add a third card to the **AI projects** section, next to CRO Auditor and AI Visi
 > **Experiment Readout Agent**
 > Turns raw A/B test results into a decision-ready readout. It catches false winners, broken traffic splits and tests too small to call, then builds a next-test backlog ranked by ICE.
 > *Built with Claude, Python, and Streamlit.*
-> **[Try the live app]** → `https://experiment-readout-becca.streamlit.app` · **[See the code]** → your GitHub repo URL
+> **[Try the live app]** → `https://experiment-readout-becca.streamlit.app` · **[See the code]** → `https://github.com/beccakovac/experiment-readout-agent`
 
 **Optional embed.** To show the app inside a page on your site:
 
