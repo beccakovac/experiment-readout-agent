@@ -1,0 +1,6 @@
+test_name,page,hypothesis,metric,control_visitors,control_conversions,variant_visitors,variant_conversions
+Annual plan pre-selected,Pricing page,"If we pre-select the annual plan, more visitors will start checkout because the savings are visible by default.",Checkout starts,10000,400,10000,480
+New hero headline,Homepage,"If the hero headline names the outcome (""Book 3x more demos"") instead of the product category, more visitors will click the main CTA.",CTA clicks,40000,2000,40000,2012
+Remove phone field,Demo request form,"If we remove the optional phone field, more visitors will submit the demo form because there is less friction.",Form submissions,300,24,310,33
+Trust badges at checkout,Checkout,"If we add security and payment badges near the pay button, more shoppers will complete purchase because they feel safer.",Purchases,10000,300,8800,310
+Skip product tour,Onboarding,"If we let new users skip the product tour, more will reach activation because they get to the product faster.",Activated users,8000,960,8000,848
